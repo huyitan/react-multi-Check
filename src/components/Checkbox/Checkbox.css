@@ -1,0 +1,12 @@
+.Checkbox-wrapper {
+  display: flex;
+}
+
+.Checkbox-input {
+  transform: scale(1.25);
+}
+
+.Checkbox-label {
+  padding-left: 4px;
+  font-size: 16px;
+}
